@@ -48,7 +48,7 @@ public class Sample {
         );
     }
 
-    // Time Complexity : O(N)
+    // Time Complexity : O(N^2)
     // Space Complexity : O(N^2)
     // Did this code successfully run on Leetcode : Yes it did
     // Challenge was to determine whether we need 2D matrix or just an array can work too
